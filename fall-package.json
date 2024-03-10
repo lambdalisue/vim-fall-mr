@@ -1,0 +1,14 @@
+{
+  "$schema": "https://vim-fall.github.io/jsonschema/v1/package.schema.json",
+  "source": {
+    "mrr": {
+      "url": "./source/mrr.ts"
+    },
+    "mrw": {
+      "url": "./source/mrw.ts"
+    },
+    "mru": {
+      "url": "./source/mru.ts"
+    }
+  }
+}
