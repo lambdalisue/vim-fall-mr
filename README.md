@@ -1,6 +1,6 @@
-# vim-fall-source-mr
+# vim-fall-mr
 
-[vim-fall] source for [vim-mr].
+[vim-fall] extensions for [vim-mr].
 
 [vim-fall]: https://github.com/lambdalisue/vim-fall
 [vim-mr]: https://github.com/lambdalisue/vim-mr
